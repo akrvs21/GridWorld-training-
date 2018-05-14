@@ -1,4 +1,0 @@
-游戏： 迷宫
-使用方法：
-运行MazeBugRunner.java 设计World为 BoundedGrid 或者 UnboundeGrid 后下载地图。
-Bugs：地图迷宫虫子一开始不能动，这种情况下 先删除这个虫子再创建新MazeBug 会正常运行。删除用removeSelfFromGrid();
